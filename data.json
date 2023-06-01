@@ -1,0 +1,17 @@
+[
+    {
+        "NameHospital": "KIMS",
+        "PatientCount": 100,
+        "HospitalLocation": "Trivandrum"
+    },
+    {
+        "NameHospital": "StMarys",
+        "PatientCount": 150,
+        "HospitalLocation": "Kochi"
+    },
+    {
+        "NameHospital": "Amrita",
+        "PatientCount": 90,
+        "HospitalLocation": "Kottayam"
+    }
+]
